@@ -1,0 +1,7 @@
+{
+  "name": "T1Layout",
+  "description": "Test plugin: shows a toast when loaded. First step to confirm installing from a link works.",
+  "authors": [{ "name": "massacrefr552-cmd" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_progress_wheel_24px" }
+}
