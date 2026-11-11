@@ -65,61 +65,61 @@
       "#FFFFFF"
     ],
     "TEXT_BRAND": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_DANGER": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_LINK": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_MUTED": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_NORMAL": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_POSITIVE": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_PRIMARY": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_SECONDARY": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "TEXT_WARNING": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "HEADER_PRIMARY": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "HEADER_SECONDARY": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "INTERACTIVE_HOVER": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "CHANNELS_DEFAULT": [
-      "#FFFFFF"
+      "#FF0000"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#FFFFFF"
@@ -186,7 +186,7 @@
     "BLACK_500": "#00000050",
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
-    "BRAND_560": "#000000",
+    "BRAND_560": "#FF0000",
     "BRAND_500": "#141414",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
@@ -219,6 +219,12 @@
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
     "RED_430": "#009AFF",
+    "PRIMARY_300": "#FF0000",
+    "PRIMARY_330": "#FF0000",
+    "PRIMARY_360": "#FF0000",
+    "PRIMARY_400": "#FF0000",
+    "PRIMARY_460": "#FF0000",
+    "PRIMARY_500": "#FF0000",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#FFFFFF",
