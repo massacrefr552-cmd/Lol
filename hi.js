@@ -244,7 +244,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://i.imgur.com/5NYThw2.jpeg",
+    "url": "https://files.catbox.moe/ff2ush.gif",
     "alpha": 1
   },
   "spec": 2,
