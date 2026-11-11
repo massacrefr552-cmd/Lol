@@ -1,0 +1,8 @@
+{
+  "name": "better-mobile-layout",
+  "version": "1.0.0",
+  "description": "Cleaner server list, DM list and profiles with a more mobile-friendly feel",
+  "main": "index.ts",
+  "author": "You",
+  "license": "MIT"
+}
