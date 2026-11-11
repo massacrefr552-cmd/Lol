@@ -4,12 +4,17 @@ import definePlugin from "@utils/types";
 export default definePlugin({
     name: "BetterMobileLayout",
     description: "Cleaner server list, DM list and profiles with a more mobile-friendly feel",
-    authors: [Devs.Nobody], // change this later if you want
+    authors: [
+        {
+            name: "You",
+            id: 0n
+        }
+    ],
     version: "1.0.0",
 
     start() {
         const style = document.createElement("style");
-        style.id = "BetterMobileLayout";
+        style.id = "BetterMobileLayout-css";
         style.textContent = `
             /* ===== Better Server List ===== */
             :root {
@@ -91,6 +96,6 @@ export default definePlugin({
     },
 
     stop() {
-        document.getElementById("BetterMobileLayout")?.remove();
+        document.getElementById("BetterMobileLayout-css")?.remove();
     }
 });
